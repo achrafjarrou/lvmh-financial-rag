@@ -444,7 +444,7 @@ MIT License - voir [LICENSE](LICENSE)
 
 **Achraf Jarrou**
 - Email: achraf.jarrou2002@gmail.com
-- LinkedIn: [linkedin.com/in/achraf-jarrou](https://linkedin.com/in/achraf-jarrou)
+- LinkedIn: https://www.linkedin.com/in/achraf-jarrou-4394bb342/
 - GitHub: [@achrafjarrou](https://github.com/achrafjarrou)
 
 ## 🙏 Remerciements
