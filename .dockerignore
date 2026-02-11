@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.tmp
+
+# Envs
+venv/
+.env/
+.langchain_env/
+langchain_env/
+.venv/
+
+# Git
+.git/
+.gitignore
+
+# Build / cache
+.cache/
+pip-cache/
+dist/
+build/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+
+# Data / large files
+data/
+chroma_db/
+vectorstore/
+storage/
+*.db
+*.sqlite3
+
+# PDFs / docs (si tu as un dossier docs/pdf lourd)
+*.pdf
+docs/
+reports/
+
+# Docker artifacts
+*.tar
+*.zip
+
+# OS
+.DS_Store
+Thumbs.db
+sss
