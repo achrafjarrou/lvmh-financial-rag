@@ -54,6 +54,7 @@ python demo.py
 ```
 Query → Vector Search (ChromaDB) → Reranking → LLM Generation (Groq) → Answer + Sources
 ```
+<img width="8192" height="1112" alt="Flowchart" src="https://github.com/user-attachments/assets/4ba549cd-b1eb-4b54-a3e8-90ea99c2e96e" />
 
 **Pipeline détaillé**:
 1. **PDF Processing**: Découpage intelligent en chunks (700 chars, 150 overlap)
